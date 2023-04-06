@@ -1,3 +1,3 @@
-# my_project_1 from b로하자고
+# my_project_1 from 아왜~~ A기릿
 My name is README
 EOF
