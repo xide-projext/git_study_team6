@@ -1,3 +1,3 @@
-# my_project_1 from 아왜~~ A기릿
+# my_project_1 from BB비비빅!
 My name is README
 EOF
